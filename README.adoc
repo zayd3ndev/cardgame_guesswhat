@@ -328,3 +328,9 @@ TIP: sous PhpStorm, vous pouvez extraire une version *PDF* de votre REAMDE.adoc 
 TIP: Pour le travail en binôme, sous PhpStorm, voir le concept (et outil) de _code with me_
 
 Bonne analyse et programmation !
+
+
+
+J'ai accomplis tous les challenges ...
+
+-Alexandre
